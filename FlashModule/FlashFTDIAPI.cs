@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace CypressAPI
 {
-    public class CypressFx3
+    public class FlashFTDIAPI
     {
         public static USBDeviceList m_USBDevices;
         public static CyUSBDevice FxDev;
@@ -18,7 +18,7 @@ namespace CypressAPI
         private static CyUSBEndPoint m_EndPoint;
         private static CyBulkEndPoint bulkEpt;
 
-        public CypressFx3()
+        public FlashFTDIAPI()
         {
             Status = "Not connected";
             Initialize();

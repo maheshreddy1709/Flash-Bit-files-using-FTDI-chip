@@ -28,3 +28,15 @@ E:\Utility Source codes\CypressAPI1\CypressAPI\obj\Debug\LatticeTesting.csproj.C
 E:\Utility Source codes\CypressAPI1\CypressAPI\obj\Debug\LatticeTesting.csproj.CopyComplete
 E:\Utility Source codes\CypressAPI1\CypressAPI\obj\Debug\CypressAPI.exe
 E:\Utility Source codes\CypressAPI1\CypressAPI\obj\Debug\CypressAPI.pdb
+E:\Utilities\GIT Repositary\Capture Screenshot\Flash-Bit-files-using-FTDI-chip\CypressAPI\bin\Debug\CypressAPI.exe.config
+E:\Utilities\GIT Repositary\Capture Screenshot\Flash-Bit-files-using-FTDI-chip\CypressAPI\bin\Debug\CypressAPI.exe
+E:\Utilities\GIT Repositary\Capture Screenshot\Flash-Bit-files-using-FTDI-chip\CypressAPI\bin\Debug\CypressAPI.pdb
+E:\Utilities\GIT Repositary\Capture Screenshot\Flash-Bit-files-using-FTDI-chip\CypressAPI\bin\Debug\CyUSB.dll
+E:\Utilities\GIT Repositary\Capture Screenshot\Flash-Bit-files-using-FTDI-chip\CypressAPI\obj\Debug\LatticeTesting.csprojAssemblyReference.cache
+E:\Utilities\GIT Repositary\Capture Screenshot\Flash-Bit-files-using-FTDI-chip\CypressAPI\obj\Debug\CypressAPI.Form1.resources
+E:\Utilities\GIT Repositary\Capture Screenshot\Flash-Bit-files-using-FTDI-chip\CypressAPI\obj\Debug\CypressAPI.Properties.Resources.resources
+E:\Utilities\GIT Repositary\Capture Screenshot\Flash-Bit-files-using-FTDI-chip\CypressAPI\obj\Debug\LatticeTesting.csproj.GenerateResource.cache
+E:\Utilities\GIT Repositary\Capture Screenshot\Flash-Bit-files-using-FTDI-chip\CypressAPI\obj\Debug\LatticeTesting.csproj.CoreCompileInputs.cache
+E:\Utilities\GIT Repositary\Capture Screenshot\Flash-Bit-files-using-FTDI-chip\CypressAPI\obj\Debug\LatticeTesting.csproj.CopyComplete
+E:\Utilities\GIT Repositary\Capture Screenshot\Flash-Bit-files-using-FTDI-chip\CypressAPI\obj\Debug\CypressAPI.exe
+E:\Utilities\GIT Repositary\Capture Screenshot\Flash-Bit-files-using-FTDI-chip\CypressAPI\obj\Debug\CypressAPI.pdb

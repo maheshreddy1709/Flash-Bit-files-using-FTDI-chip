@@ -21,7 +21,7 @@ namespace CypressAPI
     public partial class Form1 : Form
     {
         int Sync_Form_Resize = 0;
-        public CypressFx3 cyFx3;
+        public FlashFTDIAPI cyFx3;
         CyUSBEndPoint curEndpt;
         string dataCaption;
         CyUSBDevice FxDev;
@@ -341,7 +341,7 @@ namespace CypressAPI
         public Form1()
         {
             InitializeComponent();
-            cyFx3 = new CypressFx3();
+            cyFx3 = new FlashFTDIAPI();
         }
 
         public bool InitFX3()
@@ -349,7 +349,7 @@ namespace CypressAPI
             bool retValue = false;
             try
             {
-                cyFx3 = new CypressFx3();
+                cyFx3 = new FlashFTDIAPI();
 
                 USBDeviceList list = cyFx3.GetUsbDeviceListObject();
 
