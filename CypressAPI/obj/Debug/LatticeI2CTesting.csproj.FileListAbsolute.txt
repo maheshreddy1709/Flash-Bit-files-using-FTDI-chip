@@ -1,0 +1,9 @@
+F:\Krishna\USB-PD\Software\Application_Software\CypressAPI\CypressAPI\bin\Debug\CypressAPI.exe.config
+F:\Krishna\USB-PD\Software\Application_Software\CypressAPI\CypressAPI\bin\Debug\CypressAPI.exe
+F:\Krishna\USB-PD\Software\Application_Software\CypressAPI\CypressAPI\bin\Debug\CypressAPI.pdb
+F:\Krishna\USB-PD\Software\Application_Software\CypressAPI\CypressAPI\obj\Debug\LatticeI2CTesting.csprojResolveAssemblyReference.cache
+F:\Krishna\USB-PD\Software\Application_Software\CypressAPI\CypressAPI\obj\Debug\CypressAPI.Form1.resources
+F:\Krishna\USB-PD\Software\Application_Software\CypressAPI\CypressAPI\obj\Debug\CypressAPI.Properties.Resources.resources
+F:\Krishna\USB-PD\Software\Application_Software\CypressAPI\CypressAPI\obj\Debug\LatticeI2CTesting.csproj.GenerateResource.Cache
+F:\Krishna\USB-PD\Software\Application_Software\CypressAPI\CypressAPI\obj\Debug\CypressAPI.exe
+F:\Krishna\USB-PD\Software\Application_Software\CypressAPI\CypressAPI\obj\Debug\CypressAPI.pdb
